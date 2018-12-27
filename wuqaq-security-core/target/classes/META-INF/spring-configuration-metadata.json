@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.wuqaq.security.core.properties.SecurityProperties",
+      "name": "wuqaq.security",
+      "type": "com.wuqaq.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.wuqaq.security.core.properties.SecurityProperties",
+      "name": "wuqaq.security.browser",
+      "type": "com.wuqaq.security.core.properties.BrowserProperties"
+    }
+  ]
+}

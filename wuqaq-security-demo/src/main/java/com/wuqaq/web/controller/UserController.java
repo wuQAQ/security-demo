@@ -3,6 +3,7 @@ package com.wuqaq.web.controller;
 import com.fasterxml.jackson.annotation.JsonView;
 import com.wuqaq.dto.User;
 import com.wuqaq.exception.UserNotExistException;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
 import org.springframework.web.bind.annotation.*;
@@ -14,6 +15,11 @@ import java.util.List;
 @RestController
 @RequestMapping("/user")
 public class UserController {
+
+    @GetMapping("/me")
+    public Object getCurrentUser() {
+        return SecurityContextHolder.getContext().getAuthentication();
+    }
 
     @DeleteMapping(value = "/{id:\\d+}")
     public void delete(@PathVariable String id) {
