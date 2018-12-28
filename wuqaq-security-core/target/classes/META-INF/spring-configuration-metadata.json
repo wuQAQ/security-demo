@@ -12,6 +12,11 @@
       "sourceType": "com.wuqaq.security.core.properties.SecurityProperties",
       "name": "wuqaq.security.browser",
       "type": "com.wuqaq.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.wuqaq.security.core.properties.SecurityProperties",
+      "name": "wuqaq.security.code",
+      "type": "com.wuqaq.security.core.properties.ValidateCodeProperties"
     }
   ]
 }
