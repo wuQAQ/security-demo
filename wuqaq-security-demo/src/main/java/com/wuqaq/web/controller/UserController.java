@@ -2,7 +2,6 @@ package com.wuqaq.web.controller;
 
 import com.fasterxml.jackson.annotation.JsonView;
 import com.wuqaq.dto.User;
-import com.wuqaq.exception.UserNotExistException;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;

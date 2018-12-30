@@ -1,45 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java" line="23" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java" line="24" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="924ccb6d-6c85-43ca-bd27-90c049b98b84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SmsCodeProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/DefaultSmsCodeSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/AbstractChannelSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SecurityConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessorHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/impl/AbstractValidateCodeProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-browser/src/main/resources/resources/wuqaq-signIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-browser/src/main/resources/resources/wuqaq-signIn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationFailureHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationFailureHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationSuccessHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-browser/target/classes/com/wuqaq/security/browser/BrowserSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-browser/target/classes/com/wuqaq/security/browser/BrowserSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-browser/target/classes/resources/wuqaq-signIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-browser/target/classes/resources/wuqaq-signIn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/BrowserProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/BrowserProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/ImageCodeProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/ImageCodeProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/ValidateCodeProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/ValidateCodeProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ImageCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ImageCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/properties/BrowserProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/properties/BrowserProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/properties/ImageCodeProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/properties/ImageCodeProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/properties/ValidateCodeProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/properties/ValidateCodeProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ImageCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ImageCodeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeSender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeException.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/code/DemoImageCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/code/DemoImageCodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-demo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-demo/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wuqaq-security-demo/target/classes/com/wuqaq/code/DemoImageCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-demo/target/classes/com/wuqaq/code/DemoImageCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/sms/SmsCodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-core/target/classes/com/wuqaq/security/core/validate/code/sms/SmsCodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuqaq-security-demo/target/classes/com/wuqaq/web/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wuqaq-security-demo/target/classes/com/wuqaq/web/controller/UserController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,31 +53,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeController.java">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="46" column="23" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
+            <state relative-caret-position="522">
+              <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,75 +82,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCode.java">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#ImageCode#0;class#ImageCode#0" />
-                <element signature="method#ImageCode#1;class#ImageCode#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeSender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/DefaultSmsCodeSender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-              <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="method#ValidateCode#0;class#ValidateCode#0" />
-                <element signature="method#ValidateCode#1;class#ValidateCode#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#generate#0;class#ImageCodeGenerator#0" />
-                <element signature="method#getRandColor#0;class#ImageCodeGenerator#0" />
-                <element signature="e#2766#2767#0" expanded="true" />
-                <element signature="e#2807#2808#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="279">
+              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,12 +94,91 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeGenerator.java">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/MyUserDetailsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="234">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="888">
+              <caret line="37" column="104" selection-start-line="37" selection-start-column="104" selection-end-line="37" selection-end-column="104" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationToken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/AbstractChannelSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="17" column="52" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SecurityConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="82" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="82" />
+              <folding>
+                <element signature="e#1850#1851#0" expanded="true" />
+                <element signature="e#1915#1916#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,8 +192,8 @@
         <option value="AnnotationType" />
         <option value="FxmlFile" />
         <option value="Kotlin File" />
-        <option value="Enum" />
         <option value="HTML File" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -196,6 +204,7 @@
       <find>wiremock</find>
       <find>form</find>
       <find>ImageCode</find>
+      <find>validateCodeGenerators</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/resources/error</dir>
@@ -207,18 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/dto/FileInfo.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/test/java/com/wuqaq/web/controller/UserControllerTest.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/controller/FileController.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/Swagger2.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/mock/response/01.txt" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/mock/response/02.txt" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/wiremock/MockServer.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/MyUserDetailsService.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/resources/resources.html" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/support/SimpleResponse.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/resources/error/demo-signIn.html" />
         <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/resources/demo-signIn.html" />
         <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityController.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/SecurityCoreConfig.java" />
@@ -229,18 +226,13 @@
         <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/DemoApplication.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationFailtureHandler.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/LoginType.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationSuccessHandler.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/resources/index.html" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationFailureHandler.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SecurityProperties.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/controller/UserController.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/BrowserProperties.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/code/DemoImageCodeGenerator.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/SmsCode.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ImageCode.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeFilter.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeSender.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/DefaultSmsCodeSender.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/resources/resources/wuqaq-signIn.html" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SmsCodeProperties.java" />
@@ -248,16 +240,33 @@
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/ValidateCodeProperties.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ImageCodeGenerator.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeGenerator.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/SmsCodeGenerator.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCode.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCode.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeException.java" />
-        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeSender.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SecurityConstants.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeType.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeProcessor.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessorHolder.java" />
         <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeController.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeException.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeProcessor.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationToken.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/impl/AbstractValidateCodeProcessor.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeFilter.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/AbstractChannelSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java" />
       </list>
     </option>
   </component>
@@ -415,6 +424,25 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wuqaqsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wuqaq-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wuqaqsecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wuqaq-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="properties" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -438,16 +466,6 @@
             </path>
             <path>
               <item name="wuqaqsecurity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuqaq-security-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="sms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wuqaqsecurity" type="b2602c69:ProjectViewProjectNode" />
               <item name="wuqaq-security-demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -483,7 +501,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wuqaq" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wuqaqsecurity" type="b2602c69:ProjectViewProjectNode" />
@@ -492,7 +510,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wuqaq" type="462c0819:PsiDirectoryNode" />
-              <item name="dto" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wuqaqsecurity" type="b2602c69:ProjectViewProjectNode" />
@@ -578,7 +596,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546171107259" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546193092014" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -717,7 +735,7 @@
       <workItem from="1545620928371" duration="14516000" />
       <workItem from="1545754985887" duration="16462000" />
       <workItem from="1545923349218" duration="8967000" />
-      <workItem from="1545992994740" duration="7912000" />
+      <workItem from="1545992994740" duration="17891000" />
     </task>
     <servers />
   </component>
@@ -754,7 +772,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68900000" />
+    <option name="totallyTimeSpent" value="78879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -790,7 +808,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32967034" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32967034" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32967034" />
@@ -804,9 +822,15 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeController.java</url>
-          <line>45</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeFilter.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -816,280 +840,109 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/service/HelloServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/dto/UserQueryCondition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/dto/FileInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/validator/MyConstraint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/service/HelloService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="29" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/exception/UserNotExistException.java">
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/service/HelloServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="67" column="21" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/filter/TimeFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/aspect/TimeAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/MyUserDetailsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationSuccessHandler.kt" />
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/SecurityCoreConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/support/SimpleResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationFailtureHandler.java" />
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationSuccessHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="37" column="99" selection-start-line="37" selection-start-column="99" selection-end-line="37" selection-end-column="99" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationFailureHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="39" column="123" selection-start-line="39" selection-start-column="123" selection-end-line="39" selection-end-column="123" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/resources/demo-signIn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/resources/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/config/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/controller/FileController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.5.6.RELEASE/spring-boot-starter-security-1.5.6.RELEASE.jar!/META-INF/maven/org.springframework.boot/spring-boot-starter-security/pom.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/controller/ControllerExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.5.6.RELEASE/spring-boot-starter-security-1.5.6.RELEASE.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/web/interceptor/TimeInterceptor.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.5.6.RELEASE/spring-boot-starter-security-1.5.6.RELEASE.jar!/META-INF/spring.provides">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.5.6.RELEASE/spring-boot-starter-security-1.5.6.RELEASE.jar!/META-INF/maven/org.springframework.boot/spring-boot-starter-security/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/dto/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-615">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/code/DemoImageCodeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/SecurityCoreConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="51" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeException.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/authority/AuthorityUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/resources/application.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/SmsCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="13" column="32" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/resources/resources/wuqaq-signIn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="46" column="64" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/ValidateCodeProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1536">
-          <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1686">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="192">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1119,150 +972,268 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/LoginType.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/Authentication.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="263">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SmsCodeProperties.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE.jar!/org/springframework/security/web/authentication/SimpleUrlAuthenticationSuccessHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE.jar!/org/springframework/security/web/authentication/SavedRequestAwareAuthenticationSuccessHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-demo/src/main/java/com/wuqaq/DemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SecurityProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/context/request/ServletRequestAttributes.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/context/request/ServletWebRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#2027#2028#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeGenerator.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/jaas/JaasAuthenticationToken.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="method#ValidateCode#0;class#ValidateCode#0" />
-            <element signature="method#ValidateCode#1;class#ValidateCode#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/DefaultSmsCodeSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#ImageCode#0;class#ImageCode#0" />
-            <element signature="method#ImageCode#1;class#ImageCode#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/image/ImageCodeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#generate#0;class#ImageCodeGenerator#0" />
-            <element signature="method#getRandColor#0;class#ImageCodeGenerator#0" />
-            <element signature="e#2766#2767#0" expanded="true" />
-            <element signature="e#2807#2808#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/sms/SmsCodeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="50" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="82" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
+        <state relative-caret-position="136">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeBeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/impl/AbstractValidateCodeProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getValidateCodeType#0;class#AbstractValidateCodeProcessor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeProcessorHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/context/request/AbstractRequestAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/context/request/ServletRequestAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/context/request/ServletWebRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#2147#2148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE.jar!/org/springframework/security/web/context/SecurityContextPersistenceFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/authentication/MyAuthenticationSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/support/SimpleResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="82" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="82" />
+          <folding>
+            <element signature="e#1850#1851#0" expanded="true" />
+            <element signature="e#1915#1916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="104" selection-start-line="37" selection-start-column="104" selection-end-line="37" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/mobile/SmsCodeAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/validate/code/ValidateCodeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/MyUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/properties/SecurityConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-core/src/main/java/com/wuqaq/security/core/authentication/AbstractChannelSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wuqaq-security-browser/src/main/java/com/wuqaq/security/browser/BrowserSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1321,11 +1292,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|wuqaq-security-demo</last-edited>
+          <last-edited>wuqaq-security-core</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2034549" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
